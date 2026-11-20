@@ -1,4 +1,4 @@
-# contrib.ai
+# RepoPilot
 
 contrib.ai is a repo-aware assistant for open-source contributors. Paste a repository link, let the project process the codebase, and then ask questions about architecture, setup, contribution paths, and good first issues through a chat interface.
 
